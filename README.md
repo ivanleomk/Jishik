@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ivanleomk-jishik-badge.png)](https://mseep.ai/app/ivanleomk-jishik)
+
 # Jishik
 
 A Model Context Protocol (MCP) server for Anki that enables AI assistants to create, search, and manage flashcards with rich media support. Jishik bridges the gap between AI workflows and spaced repetition learning, making it easy to generate educational content from any source.
